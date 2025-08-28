@@ -1,16 +1,20 @@
-# app_chauffeur1
+# Plateforme de Gestion de Flotte de Service de Transport B2B
 
-A new Flutter project.
+Cette application Flutter permet la gestion complète d’une flotte de bus destinée au transport des clients entre des points fixes et leurs lieux de travail. Elle offre des fonctionnalités adaptées aux chauffeurs et aux gestionnaires de la flotte pour un suivi efficace et une meilleure organisation.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Fonctionnalités Principales
 
-A few resources to get you started if this is your first Flutter project:
+- **Gestion de la flotte de bus :** Suivi des véhicules et missions associées  
+- **Planning des missions :** Chauffeurs peuvent consulter leurs trajets et horaires programmés  
+- **Suivi temps réel :** Localisation en direct des bus pendant leurs missions  
+- **Bilan mensuel :** Rapport détaillé à la fin de chaque mois sur les missions réalisées et performances  
+- **Interface conviviale Flutter :** Application multiplateforme (Android & iOS)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Utilisées
+
+- Langage : Dart  
+- Framework : Flutter  
